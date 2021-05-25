@@ -12,3 +12,14 @@ I'm Dametrik, I am a Flatiron Alumni!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeLaCruz26&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 https://wakatime.com/badge/github/DeLaCruz26/DeLaCruz26.svg
+
+!https://wakatime.com/badge/github/DeLaCruz26/DeLaCruz26.svg!:https://wakatime.com/badge/github/DeLaCruz26/DeLaCruz26
+
+{<img src="https://wakatime.com/badge/github/DeLaCruz26/DeLaCruz26.svg" alt="wakatime" />}[https://wakatime.com/badge/github/DeLaCruz26/DeLaCruz26]
+
+image:https://wakatime.com/badge/github/DeLaCruz26/DeLaCruz26.svg["wakatime", link="https://wakatime.com/badge/github/DeLaCruz26/DeLaCruz26"]
+
+.. image:: https://wakatime.com/badge/github/DeLaCruz26/DeLaCruz26.svg
+    :target: https://wakatime.com/badge/github/DeLaCruz26/DeLaCruz26
+    
+    =for html <a href="https://wakatime.com/badge/github/DeLaCruz26/DeLaCruz26"><img src="https://wakatime.com/badge/github/DeLaCruz26/DeLaCruz26.svg"></a>
