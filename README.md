@@ -11,11 +11,7 @@ I'm Dametrik, I am a Flatiron Alumni!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeLaCruz26&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-$.ajax({
-  type: 'GET',
-  url: 'https://wakatime.com/share/@DeLaCruz26/b8128f1a-1b35-463e-a7b3-9b587af43900.json',
-  dataType: 'jsonp',
-  success: function(response) {
-    console.log(response.data);
-  },
-});
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@DeLaCruz26/014adb61-aabd-4af8-8d64-24b91d83c007.png" /></a>
+
+.. image:: https://wakatime.com/share/@DeLaCruz26/014adb61-aabd-4af8-8d64-24b91d83c007.png
+    :target: https://wakatime.com/
