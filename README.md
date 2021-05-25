@@ -10,3 +10,5 @@ I'm Dametrik, I am a Flatiron Alumni!
 [![Dametrik's github stats](https://github-readme-stats.vercel.app/api?username=DeLaCruz26&count_private=true&show_icons=true&theme=dracula&hide_rank=false&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeLaCruz26&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DeLaCruz26)](https://github.com/anuraghazra/github-readme-stats)
