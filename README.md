@@ -13,5 +13,3 @@ I'm Dametrik, I am a Flatiron Alumni!
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@DeLaCruz26/014adb61-aabd-4af8-8d64-24b91d83c007.png" /></a>
 
-.. image:: https://wakatime.com/share/@DeLaCruz26/014adb61-aabd-4af8-8d64-24b91d83c007.png
-    :target: https://wakatime.com/
